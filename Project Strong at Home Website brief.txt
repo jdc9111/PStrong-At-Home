@@ -1,0 +1,51 @@
+Project Strong at Home
+
+
+Brief:
+Build a website for Bonnie's Project Strong at Home business
+THis is an offshoot of her main business: Project Strong.
+Project Strong is group strength training classes for older Adults (60+)  
+Simple website: use css, javascript, html. Single page landing page.
+The business: Strength training for Older Adults 60+ at home
+For older adults who don't want to come t project strong classes
+Want to build a lists of clients for new kinesiologist we are hiring (Melissa). Cory Tester is not part of Project Strong At HOme.
+Website needs to be "senior" friendly
+Simple
+white background
+Link to google form for signup: https://forms.gle/r1wgsTGAQKPagqX6A
+use Alex Hormozi's framework for business website.
+CTA is sign up for Introductory Call
+
+
+Alex Hormozi's Framework:
+
+Big promise (headline)
+Supporting subheadline
+CTA button
+Proof
+Explain the problem
+Explain your solution
+Benefits
+Testimonials/results
+FAQ (objections)
+Final CTA
+
+
+FAQ:
+- we provide all the equipment
+- start at any age 
+- Costs: $165/hour for Bonnie.  $110/h for registered kinesiologist who is part of the team
+- location: Collingwood and surrounding areas
+- free introductory/exploratory phone call
+- includes detailed assessment of your needs and goals
+
+
+
+
+
+
+
+
+
+
+

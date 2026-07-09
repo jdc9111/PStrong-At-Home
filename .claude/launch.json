@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "PStrong At Home",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "-l", "5551", "."],
+      "port": 5551
+    }
+  ]
+}
